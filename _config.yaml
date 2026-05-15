@@ -1,0 +1,8 @@
+# GitHub Pages (Jekyll) のデフォルト設定で検索エンジンを拒否するヘッダーを出力
+google_analytics: ""
+show_downloads: false
+theme: jekyll-theme-cayman # または任意のテーマ、あるいは記述なしでも可
+
+# 検索エンジンをブロックするプラグインの有効化
+plugins:
+  - jekyll-seo-tag
